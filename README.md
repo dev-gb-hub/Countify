@@ -11,6 +11,10 @@ Countify is a real-time word and letter counter application. It helps you analyz
 - **Java Version**: 1.5.0 or higher must be installed.  
 - **Dependencies**: All required libraries must be downloaded to run the application.  
 
+## Main Menu
+
+![Main Menu](lib/screenshots/main-menu.png)
+
 ## How to Set Up Countify  
 1. Download the `Countify.jar` file and the required libraries.  
 2. Ensure that Java is installed on your system.  
