@@ -13,7 +13,7 @@ Countify is a real-time word and letter counter application. It helps you analyz
 
 ## Main Menu
 
-![Main Menu](lib/screenshots/main-menu.png)
+![Main Menu](Countify/lib/screenshots/main-menu.png)
 
 ## How to Set Up Countify  
 1. Download the `Countify.jar` file and the required libraries.  
